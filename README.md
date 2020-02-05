@@ -34,6 +34,12 @@ Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noc
 Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing" https://bjc.edc.org/bjc-r/course/bjc4nyc.html .
 
 ### <a name="3"></a>Mittwoch, 11.12.2019
-Wir haben uns mit der Unit 3 zu Listen beschäftigt. Dabei haben wir die Aufgaben von BJC Curriculum versucht. Leider konnten wir uns kein projekt vorstellen, welches mit Listen im Zusammenhang steht.
+Wir haben uns mit der Unit 3 zu Listen beschäftigt. Dabei haben wir die Aufgaben von BJC Curriculum versucht. Leider konnten wir uns kein Projekt vorstellen, welches mit Listen im Zusammenhang steht.
 
 ### <a name="4"></a>Donnerstag, 12.12.2019
+Heute sind wir mit einer neuen Projektidee gestartet. Dafür haben wir uns mit der "Unit 1 Lab 5: Follow the Leader" beschäftigt.
+
+### <a name="5"></a>Mittwoch, 18.12.2019
+Wir haben uns weiter mit der neuen Projektidee beschäftigt. Wir wollen das Spiel "Catching Cows" nennen und waren in der Stunde damit beschäftig, die Bewegung des Sprites "Cow" zu programmieren.
+
+### <a name="6"></a>Donnerstag, 19.12.2019
