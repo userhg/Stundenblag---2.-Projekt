@@ -6,7 +6,7 @@
 
 [Dienstag, 10.12.2019](#2)
 
-[mittwoch, 11.12.2019](#3)
+[Mittwoch, 11.12.2019](#3)
 
 [Donnerstg, 12.12.2019](#4)
 
@@ -32,3 +32,8 @@ Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noc
 
 ### <a name="2"></a>Dienstag, 10.12.2019
 Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing" https://bjc.edc.org/bjc-r/course/bjc4nyc.html .
+
+### <a name="3"></a>Mittwoch, 11.12.2019
+Wir haben uns mit der Unit 3 zu Listen beschäftigt. Dabei haben wir die Aufgaben von BJC Curriculum versucht. Leider konnten wir uns kein projekt vorstellen, welches mit Listen im Zusammenhang steht.
+
+### <a name="4"></a>Donnerstag, 12.12.2019
