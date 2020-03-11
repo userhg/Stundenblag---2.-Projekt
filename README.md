@@ -43,3 +43,10 @@ Heute sind wir mit einer neuen Projektidee gestartet. Dafür haben wir uns mit d
 Wir haben uns weiter mit der neuen Projektidee beschäftigt. Wir wollen das Spiel "Catching Cows" nennen und waren in der Stunde damit beschäftig, die Bewegung des Sprites "Cow" zu programmieren.
 
 ### <a name="6"></a>Donnerstag, 19.12.2019
+Wir haben versucht bei der Bewegung des Sprites "Cow" eine konstante Geschwindigkeit einzustellen. Leider hat das nicht geklappt.
+
+### <a name="5"></a>Mittwoch, 15.01.2020
+Heute haben wir zwei neue Sprites eingeführt: "Monster und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt (https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Es hat funktioniert!
+
+### <a name="2"></a>Dienstag, 21.01.2020
+Wir mmussten zu der Erkenntnis kommen, dass unser Projekt nicht zielführend und nicht weiter ausbaufähig ist. "Weapon" folgt zwar "Monster", aber die Motive flackern und die Bewegung läuft zu schnell. Wir haben uns dazu entschieden, das Projekt zu verwerfen 
