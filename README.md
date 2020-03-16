@@ -26,6 +26,8 @@
 
 [Dienstag, 28.01.2020](#12)
 
+
+
 ### <a name="1"></a>Donnerstag, 05.12.2019
 Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noch sind wir uns nicht ganz sicher, was wir Neues programmieren und mit welchem Programm. Wir haben eine grobe Idee eines neuen Spiels und schauen uns die Programmierseiten App Lab und Game Lab an. Wir kommen allerdings nicht sehr gut mit der Darstellungsweise klar und werden uns wahrscheinlich für ein andere Programm entscheiden.
 
@@ -48,7 +50,17 @@ Wir haben versucht bei der Bewegung des Sprites "Cow" eine konstante Geschwindig
 ### <a name="7"></a>Mittwoch, 15.01.2020
 Heute haben wir zwei neue Sprites eingeführt: "Monster und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt (https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Es hat funktioniert!
 
-### <a name="8"></a>Dienstag, 21.01.2020
+### <a name="8"></a>Donnerstag, 16.01.2020
 Wir mussten zu der Erkenntnis kommen, dass unser Projekt nicht zielführend und nicht weiter ausbaufähig ist. "Weapon" folgt zwar "Monster", aber die Motive flackern und die Bewegung läuft zu schnell. Wir haben uns dazu entschieden, das Projekt zu verwerfen. 
 
-### <a name="9"></a>Mittwoch, 22.01.2020
+### <a name="9"></a>Dienstag, 21.01.2020
+Diese Stunde sind wir durch Brainstorming und ein paar Vorschlägen von Herrn Buhl, auf die Idee gekommen, uns mit Rekursion und Fractals zu beschäftigen. Wir werden uns mit der Unit 7: Fractals and Recusion beschäftigen.
+
+### <a name="10"></a>Mittwoch, 22.01.2020
+Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns in das Thema hineinzudenken. 
+
+### <a name="11"></a>Donnerstag, 23.01.2020
+Wir haben weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert.
+
+### <a name="12"></a>Dienstag, 28.01.2020
+Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fratal zu programmieren. 
