@@ -28,7 +28,27 @@
 
 [Mittwoch, 29.01.2020](#13)
 
-[Donnerstag, 30.01.2020](#14)
+[Dienstag, 04.02.2020](#14)
+
+[Mittwoch, 05.02.2020](#15)
+
+[Donnerstag, 06.02.2020](#16)
+
+[Mittwoch, 12.02.2020](#17)
+
+[Donnerstag, 13.02.2020](#18)
+
+[Freitag, 14.02.2020](#19)
+
+[Mittwoch, 19.02.2020](#20)
+
+[Donnerstag, 20.02.2020](#21)
+
+[Freitag, 06.03.2020](#22)
+
+[Mittwoch, 11.03.2020](#23)
+
+[Freitag, 13.03.2020](#24)
 
 ### <a name="1"></a>Donnerstag, 05.12.2019
 Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noch sind wir uns nicht ganz sicher, was wir Neues programmieren und mit welchem Programm. Wir haben eine grobe Idee eines neuen Spiels und schauen uns die Programmierseiten App Lab und Game Lab an. Wir kommen allerdings nicht sehr gut mit der Darstellungsweise klar und werden uns wahrscheinlich für ein andere Programm entscheiden.
