@@ -83,7 +83,7 @@ Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns 
 Wir haben weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert.
 
 ### <a name="12"></a>Dienstag, 28.01.2020
-Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren. 
+Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren, was diese Stunde noch nicht vollständig funktioniert hat.
 
 ### <a name="13"></a>Dienstag, 04.02.2020
 
