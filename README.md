@@ -26,7 +26,9 @@
 
 [Dienstag, 28.01.2020](#12)
 
+[Mittwoch, 29.01.2020](#13)
 
+[Donnerstag, 30.01.2020](#14)
 
 ### <a name="1"></a>Donnerstag, 05.12.2019
 Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noch sind wir uns nicht ganz sicher, was wir Neues programmieren und mit welchem Programm. Wir haben eine grobe Idee eines neuen Spiels und schauen uns die Programmierseiten App Lab und Game Lab an. Wir kommen allerdings nicht sehr gut mit der Darstellungsweise klar und werden uns wahrscheinlich für ein andere Programm entscheiden.
@@ -63,4 +65,4 @@ Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns 
 Wir haben weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert.
 
 ### <a name="12"></a>Dienstag, 28.01.2020
-Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fratal zu programmieren. 
+Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren. 
