@@ -110,7 +110,9 @@ Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns 
 
 ![imag7](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%201%20block.png)
 
-![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)                                          ![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
+![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)
+
+![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
 
 ### <a name="12"></a>Dienstag, 28.01.2020
 Wir haben diese Stunde weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert, um zu erkennen, wie wir die Drehungen ändern müssen, um verschiedenen Formen zu erhalten.
