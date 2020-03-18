@@ -1,4 +1,4 @@
-# Stundenblog 2.Projekt
+# Stundenblog 2. Projekt
 
 ## Inhaltsverzeichnis
 
@@ -75,7 +75,8 @@ Wir haben versucht bei der Bewegung des Sprites "Monster" eine konstante Geschwi
 Da der Sprite ufällig Koordinaten auswählt und den Weg immer in der gleichen Zeitspanne zurücklegt, ist er manchmal sehr schnell und manchmal sehr langsam. Wir haben aber nicht heraus gefunden, wie man dies ändern könnte.
 
 ### <a name="7"></a>Mittwoch, 15.01.2020
-Heute haben wir zwei neue Sprites eingeführt: "Cow" und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt (https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Es hat funktioniert!
+Heute haben wir zwei neue Sprites eingeführt: "Cow" und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt. Es hat funktioniert!
+https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment
 
 ![image2](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20bewegung.png)
 
@@ -104,7 +105,9 @@ https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/7-recursion-trees-fract
 Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns in das Thema hineinzudenken.
 
 ![imag7](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%201%20block.png)
+
 ![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)
+
 ![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
 
 ### <a name="12"></a>Dienstag, 28.01.2020
@@ -117,21 +120,38 @@ https://bjc.edc.org/bjc-r/cur/programming/7-recursion/2-projects/1-triangle-frac
 ![image10](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20block.png)
 
 ### <a name="14"></a>Mittwoch, 05.02.2020
+In dieser Stunde haben wir erneut versucht, mit Hilfe der Anleitung das Triangle Fractal zu kreieren. Aber es hat einfach nicht funktioniert. Gibt man für Level "1" ein, so entsteht an Dreieck, doch sobald wir eine höhere Anzahl an Leveln bestimmen, verschwindet das das Dreieck und es entstehen viele kleine hintereinander, was wir eigentlich nicht möchten. Nächste Stunde werden wir Herrn Buhl nach unserem Fehler fragen.
 
 ### <a name="15"></a>Donnerstag, 06.02.2020
+Herr Buhl hat sich heute unseren selbstgemachten Block zu dem Triangle Fractal angeschaut. Wir sind die Schritte durchgegangen und ahben den Fehler gefunden. Bei dem if-else-Befehl musste level=0 gesetzt werden:
+
+![image11](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%20size.png)
 
 ### <a name="16"></a>Mittwoch, 12.02.2020
+Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche Levels und Größen ausprobiert. Nächste Stunde wollen wir nun mit diesem prinzip andere Formen ausprobieren, zu programmieren.
+
+![image12](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20fractal%20level%202.png)
+
+![image13](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%205.png)
 
 ### <a name="17"></a>Donnerstag, 13.02.2020
+h nicht da
 
 ### <a name="18"></a>Freitag, 14.02.2020
+ausgefallen??
 
 ### <a name="19"></a>Mittwoch, 19.02.2020
+h nicht da
 
 ### <a name="20"></a>Donnerstag, 20.02.2020
+h nicht da
 
 ### <a name="21"></a>Freitag, 06.03.2020
+Heute habe ich (Gesche) Hannah meine Ergebnisse der letzten Stunden gezeigt und erklärt. 
 
-### <a name="22"></a>Mittwcoh, 11.03.2020
+### <a name="22"></a>Mittwoch, 11.03.2020
+???
 
 ### <a name="23"></a>Freitag, 13.03.2020
+Ehrlich gesagt, konnten wir uns in dieser Stunde nicht wirklich konzentieren, da wir gerade mitbekommen haben, dass wegen des Coronavirus die Schule ausfällt und unsere Abiturprüfung verschoben wird. Trotz allem haben wir uns organisiert, wie wir die Ausarbeitung des Projekt über die Ferien koordinieren. 
+
