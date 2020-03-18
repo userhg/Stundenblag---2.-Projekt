@@ -51,7 +51,6 @@
 ### <a name="1"></a>Donnerstag, 05.12.2019
 Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noch sind wir uns nicht ganz sicher, was wir Neues programmieren und mit welchem Programm. Wir haben eine grobe Idee eines neuen Spiels und schauen uns die Programmierseiten App Lab und Game Lab an. Wir kommen allerdings nicht sehr gut mit der Darstellungsweise klar und werden uns wahrscheinlich für ein andere Programm entscheiden.
 
-
 ### <a name="2"></a>Dienstag, 10.12.2019
 Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing". 
 https://bjc.edc.org/bjc-r/course/bjc4nyc.html
@@ -123,12 +122,12 @@ https://bjc.edc.org/bjc-r/cur/programming/7-recursion/2-projects/1-triangle-frac
 In dieser Stunde haben wir erneut versucht, mit Hilfe der Anleitung das Triangle Fractal zu kreieren. Aber es hat einfach nicht funktioniert. Gibt man für Level "1" ein, so entsteht an Dreieck, doch sobald wir eine höhere Anzahl an Leveln bestimmen, verschwindet das das Dreieck und es entstehen viele kleine hintereinander, was wir eigentlich nicht möchten. Nächste Stunde werden wir Herrn Buhl nach unserem Fehler fragen.
 
 ### <a name="15"></a>Donnerstag, 06.02.2020
-Herr Buhl hat sich heute unseren selbstgemachten Block zu dem Triangle Fractal angeschaut. Wir sind die Schritte durchgegangen und ahben den Fehler gefunden. Bei dem if-else-Befehl musste level=0 gesetzt werden:
+Herr Buhl hat sich heute unseren selbstgemachten Block zu dem Triangle Fractal angeschaut. Wir sind die Schritte durchgegangen und haben den Fehler gefunden. Bei dem if-else-Befehl musste level=0 gesetzt werden:
 
 ![image11](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%20size.png)
 
 ### <a name="16"></a>Mittwoch, 12.02.2020
-Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche Levels und Größen ausprobiert. Nächste Stunde wollen wir nun mit diesem prinzip andere Formen ausprobieren, zu programmieren.
+Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche Levels und Größen ausprobiert. Nächste Stunde wollen wir nun mit diesem Prinzip andere Formen ausprobieren, zu programmieren.
 
 ![image12](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20fractal%20level%202.png)
 
@@ -153,5 +152,5 @@ Heute habe ich (Gesche) Hannah meine Ergebnisse der letzten Stunden gezeigt und 
 ???
 
 ### <a name="23"></a>Freitag, 13.03.2020
-Ehrlich gesagt, konnten wir uns in dieser Stunde nicht wirklich konzentieren, da wir gerade mitbekommen haben, dass wegen des Coronavirus die Schule ausfällt und unsere Abiturprüfung verschoben wird. Trotz allem haben wir uns organisiert, wie wir die Ausarbeitung des Projekt über die Ferien koordinieren. 
+Ehrlich gesagt konnten wir uns in dieser Stunde nicht wirklich konzentieren, da wir gerade mitbekommen haben, dass wegen des Coronavirus die Schule ausfällt und unsere Abiturprüfung verschoben wird. Trotz allem haben wir uns organisiert, wie wir die Ausarbeitung des Projekt über die Ferien koordinieren. 
 
