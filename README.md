@@ -119,7 +119,7 @@ https://bjc.edc.org/bjc-r/cur/programming/7-recursion/2-projects/1-triangle-frac
 ![image10](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20block.png)
 
 ### <a name="14"></a>Mittwoch, 05.02.2020
-In dieser Stunde haben wir erneut versucht, mit Hilfe der Anleitung das Triangle Fractal zu kreieren. Aber es hat einfach nicht funktioniert. Gibt man für Level "1" ein, so entsteht an Dreieck, doch sobald wir eine höhere Anzahl an Leveln bestimmen, verschwindet das das Dreieck und es entstehen viele kleine hintereinander, was wir eigentlich nicht möchten. Nächste Stunde werden wir Herrn Buhl nach unserem Fehler fragen.
+In dieser Stunde haben wir erneut versucht, mit Hilfe der Anleitung das Triangle Fractal zu kreieren. Aber es hat einfach nicht funktioniert. Gibt man für Level "1" ein, so entsteht an Dreieck, doch sobald wir eine höhere Anzahl an Leveln bestimmen, verschwindet das Dreieck und es entstehen viele kleine hintereinander, was wir eigentlich nicht möchten. Nächste Stunde werden wir Herrn Buhl nach unserem Fehler fragen.
 
 ### <a name="15"></a>Donnerstag, 06.02.2020
 Herr Buhl hat sich heute unseren selbstgemachten Block zu dem Triangle Fractal angeschaut. Wir sind die Schritte durchgegangen und haben den Fehler gefunden. Bei dem if-else-Befehl musste level=0 gesetzt werden:
@@ -134,22 +134,22 @@ Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche L
 ![image13](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%205.png)
 
 ### <a name="17"></a>Donnerstag, 13.02.2020
-h nicht da
+Heute habe ich (Gesche, Hannah war krank) das Prinzip des Dreiecks auf ein Viereck angewendet und verschiedene Level programmiert. 
 
 ### <a name="18"></a>Freitag, 14.02.2020
-ausgefallen??
+Diese Stunden haben wir uns weiter mit der Recursion von Dreiecken und Vierecken beschäftigt. 
 
 ### <a name="19"></a>Mittwoch, 19.02.2020
-h nicht da
+Heute habe ich (Gesche, Hannah war krank) ein Fünfeck (Pentagon) programmiert und verschiedene Level ausprobiert. Ich habe außerdem einen Farbverlauf fürs Pentagon mit der Funktion "set pen hue to _ " hinzugefügt. 
 
 ### <a name="20"></a>Donnerstag, 20.02.2020
-h nicht da
+Diese Stunde kam Herr Buhl zu mir (Gesche, Hannah war krank) und hat mir gesagt, ich solle versuchen, die Codes zu verkürzen und alles in eine Formel zu schreiben. Mit dem Verkürzen konnte ich für alle Formen anfangen, jedoch ist es sehr schwer, alles in eine Formel zu schreiben. Heute habe ich das nicht hinbekommen, da die Level-funktion durch meine Versuche nicht mehr funktionierte. 
 
 ### <a name="21"></a>Freitag, 06.03.2020
 Heute habe ich (Gesche) Hannah meine Ergebnisse der letzten Stunden gezeigt und erklärt. 
 
 ### <a name="22"></a>Mittwoch, 11.03.2020
-???
+Diese Stunde haben wir weiter versucht, die verschiedenen Codes zu verbinden und zu verkürzen, jedoch sind dabei immer Fehler entstanden, sodass die einzelnen Level nicht mehr funktionieren.
 
 ### <a name="23"></a>Freitag, 13.03.2020
 Ehrlich gesagt konnten wir uns in dieser Stunde nicht wirklich konzentieren, da wir gerade mitbekommen haben, dass wegen des Coronavirus die Schule ausfällt und unsere Abiturprüfung verschoben wird. Trotz allem haben wir uns organisiert, wie wir die Ausarbeitung des Projekt über die Ferien koordinieren. 
