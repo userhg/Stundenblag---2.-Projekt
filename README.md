@@ -53,14 +53,17 @@ Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noc
 
 ### <a name="2"></a>Dienstag, 10.12.2019
 Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing". 
+
 https://bjc.edc.org/bjc-r/course/bjc4nyc.html
 
 ### <a name="3"></a>Mittwoch, 11.12.2019
 Wir haben uns mit der Unit 3 zu Listen beschäftigt. Dabei haben wir die Aufgaben von BJC Curriculum versucht. Leider konnten wir uns kein Projekt vorstellen, welches mit Listen im Zusammenhang steht.
+
 https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/3-lists.topic&course=bjc4nyc.html&novideo&noassignment
 
 ### <a name="4"></a>Donnerstag, 12.12.2019
 Heute sind wir mit einer neuen Projektidee gestartet. Dafür haben wir uns mit der "Unit 1 Lab 5: Follow the Leader" beschäftigt.
+
 https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment
 
 ### <a name="5"></a>Mittwoch, 18.12.2019
@@ -75,6 +78,7 @@ Da der Sprite ufällig Koordinaten auswählt und den Weg immer in der gleichen Z
 
 ### <a name="7"></a>Mittwoch, 15.01.2020
 Heute haben wir zwei neue Sprites eingeführt: "Cow" und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt. Es hat funktioniert!
+
 https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment
 
 ![image2](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20bewegung.png)
@@ -98,6 +102,7 @@ Auf Snap haben wir die Funktionen entdeckt, mit denen man über ein Sprite zeich
 
 ### <a name="10"></a>Mittwoch, 22.01.2020
 Diese Stunde sind wir durch Brainstorming und ein paar Vorschlägen von Herrn Buhl, auf die Idee gekommen, uns mit Rekursion und Fractals zu beschäftigen. Wir werden uns in den nächsten Stunden mit der Unit 7: Fractals and Recusion beschäftigen.
+
 https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/7-recursion-trees-fractals.topic&course=bjc4nyc.html&novideo&noassignment
 
 ### <a name="11"></a>Donnerstag, 23.01.2020
@@ -105,15 +110,14 @@ Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns 
 
 ![imag7](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%201%20block.png)
 
-![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)
-
-![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
+![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)              ![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
 
 ### <a name="12"></a>Dienstag, 28.01.2020
 Wir haben diese Stunde weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert, um zu erkennen, wie wir die Drehungen ändern müssen, um verschiedenen Formen zu erhalten.
 
 ### <a name="13"></a>Dienstag, 04.02.2020
 Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren.
+
 https://bjc.edc.org/bjc-r/cur/programming/7-recursion/2-projects/1-triangle-fractal.html?topic=nyc_bjc%2F7-recursion-trees-fractals.topic&course=bjc4nyc.html&novideo&noassignment
 
 ![image10](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20block.png)
@@ -129,9 +133,7 @@ Herr Buhl hat sich heute unseren selbstgemachten Block zu dem Triangle Fractal a
 ### <a name="16"></a>Mittwoch, 12.02.2020
 Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche Levels und Größen ausprobiert. Nächste Stunde wollen wir nun mit diesem Prinzip andere Formen ausprobieren, zu programmieren.
 
-![image12](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20fractal%20level%202.png)
-
-![image13](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%205.png)
+![image12](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20fractal%20level%202.png)     ![image13](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%205.png)
 
 ### <a name="17"></a>Donnerstag, 13.02.2020
 Heute habe ich (Gesche, Hannah war krank) das Prinzip des Dreiecks auf ein Viereck angewendet und verschiedene Level programmiert.
