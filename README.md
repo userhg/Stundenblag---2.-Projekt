@@ -134,13 +134,19 @@ Mit unserem funktionierenden Block haben wir in dieser Stunde unterschiedliche L
 ![image13](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Triangle%20fractal%20level%205.png)
 
 ### <a name="17"></a>Donnerstag, 13.02.2020
-Heute habe ich (Gesche, Hannah war krank) das Prinzip des Dreiecks auf ein Viereck angewendet und verschiedene Level programmiert. 
+Heute habe ich (Gesche, Hannah war krank) das Prinzip des Dreiecks auf ein Viereck angewendet und verschiedene Level programmiert.
+
+![image14](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/square%20fractal%20level%20size.png)
 
 ### <a name="18"></a>Freitag, 14.02.2020
 Diese Stunden haben wir uns weiter mit der Recursion von Dreiecken und Vierecken beschäftigt. 
 
+![image15](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/square%20bild%20level%202.png)  ![image16](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/square%20bild%20level%204.png)
+
 ### <a name="19"></a>Mittwoch, 19.02.2020
-Heute habe ich (Gesche, Hannah war krank) ein Fünfeck (Pentagon) programmiert und verschiedene Level ausprobiert. Ich habe außerdem einen Farbverlauf fürs Pentagon mit der Funktion "set pen hue to _ " hinzugefügt. 
+Heute habe ich (Gesche, Hannah war krank) ein Fünfeck (Pentagon) programmiert und verschiedene Level ausprobiert. Ich habe außerdem einen Farbverlauf fürs Pentagon mit der Funktion "set pen hue to _ " hinzugefügt.
+
+![image16](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/buntes%20pentagon.png)
 
 ### <a name="20"></a>Donnerstag, 20.02.2020
 Diese Stunde kam Herr Buhl zu mir (Gesche, Hannah war krank) und hat mir gesagt, ich solle versuchen, die Codes zu verkürzen und alles in eine Formel zu schreiben. Mit dem Verkürzen konnte ich für alle Formen anfangen, jedoch ist es sehr schwer, alles in eine Formel zu schreiben. Heute habe ich das nicht hinbekommen, da die Level-funktion durch meine Versuche nicht mehr funktionierte. 
