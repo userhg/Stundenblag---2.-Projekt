@@ -53,7 +53,8 @@ Heute ist die erste Stunde, in der wir mit unserem zweiten Projekt anfangen. Noc
 
 
 ### <a name="2"></a>Dienstag, 10.12.2019
-Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing" https://bjc.edc.org/bjc-r/course/bjc4nyc.html .
+Nachdem wir uns zuerst noch einmal App Lab anschauten, entschieden wir uns dann mit Absprache mit Herrn Buhl für Snap! mit dem wir bereits unser letztes Projekt programmiert hatten. Diesmal sollen wir jedoch etwas systematischer vorgehen und so sammeln wir erste Eindrücke, was alles Möglich wäre auf der Internetseite "The Beauty and Joy of Computing". 
+https://bjc.edc.org/bjc-r/course/bjc4nyc.html
 
 ### <a name="3"></a>Mittwoch, 11.12.2019
 Wir haben uns mit der Unit 3 zu Listen beschäftigt. Dabei haben wir die Aufgaben von BJC Curriculum versucht. Leider konnten wir uns kein Projekt vorstellen, welches mit Listen im Zusammenhang steht.
@@ -91,22 +92,29 @@ Wir haben uns dazu entschieden, das Projekt zu verwerfen.
 ### <a name="9"></a>Dienstag, 21.01.2020
 Auf Snap haben wir die Funktionen entdeckt, mit denen man über ein Sprite zeichnen und malen kann. Wir haben uns diese Stunde damit beschäftigt, die verschiedenen Befehle auszuprobieren und zu gucken, wie man etwas zeichnen kann.
 
-![image4](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/block%20viereck%20mal%204.png) ![image5](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/bild%20viereck%20mal%20vier.png)
+![image4](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/block%20viereck%20mal%204.png)     ![image5](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/bild%20viereck%20mal%20vier.png)
 
-![image6](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20%C3%BCber%20monster.png)
+![image6](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/probieren%20zeichnen.png)
 
 ### <a name="10"></a>Mittwoch, 22.01.2020
-Diese Stunde sind wir durch Brainstorming und ein paar Vorschlägen von Herrn Buhl, auf die Idee gekommen, uns mit Rekursion und Fractals zu beschäftigen. Wir werden uns mit der Unit 7: Fractals and Recusion beschäftigen.
-
-Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns in das Thema hineinzudenken. 
+Diese Stunde sind wir durch Brainstorming und ein paar Vorschlägen von Herrn Buhl, auf die Idee gekommen, uns mit Rekursion und Fractals zu beschäftigen. Wir werden uns in den nächsten Stunden mit der Unit 7: Fractals and Recusion beschäftigen.
+https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/7-recursion-trees-fractals.topic&course=bjc4nyc.html&novideo&noassignment
 
 ### <a name="11"></a>Donnerstag, 23.01.2020
-Wir haben weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert.
+Heute haben wir uns durch die Unit 7 Lab1: Trees in a Forest gearbeitet, um uns in das Thema hineinzudenken.
+
+![imag7](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%201%20block.png)
+![image8](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%202%20block.png)
+![image9](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/tree%20zusammen%20bild.png)
 
 ### <a name="12"></a>Dienstag, 28.01.2020
-Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren, was diese Stunde noch nicht vollständig funktioniert hat.
+Wir haben diese Stunde weiter verschiedene Codes ausprobiert und erste Formen wie Dreicke und Vierecke pogrammiert, um zu erkennen, wie wir die Drehungen ändern müssen, um verschiedenen Formen zu erhalten.
 
 ### <a name="13"></a>Dienstag, 04.02.2020
+Heute sind wir mit Lab 2: Recursion Projects fortgefahren und haben begonnen ein Triangle Fractal zu programmieren.
+https://bjc.edc.org/bjc-r/cur/programming/7-recursion/2-projects/1-triangle-fractal.html?topic=nyc_bjc%2F7-recursion-trees-fractals.topic&course=bjc4nyc.html&novideo&noassignment
+
+![image10](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/triangle%20block.png)
 
 ### <a name="14"></a>Mittwoch, 05.02.2020
 
