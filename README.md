@@ -66,7 +66,7 @@ https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-s
 ### <a name="5"></a>Mittwoch, 18.12.2019
 Wir haben uns weiter mit der neuen Projektidee beschäftigt. Wir wollen das Spiel "Catching Cows" nennen und waren in der Stunde damit beschäftig, die Bewegung des Sprites "Monsters" zu programmieren, welches auf dem Bildschirm konstant in eine zufällige Richtung umher wandeln soll. 
 
-![image1][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Monster%20BEwegung.png]
+![image1](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Monster%20BEwegung.png)
 
 
 ### <a name="6"></a>Donnerstag, 19.12.2019
@@ -76,14 +76,14 @@ Da der Sprite ufällig Koordinaten auswählt und den Weg immer in der gleichen Z
 ### <a name="7"></a>Mittwoch, 15.01.2020
 Heute haben wir zwei neue Sprites eingeführt: "Cow" und "Weapon". "Weapon" soll mit dem "Monster" mitlaufen. Wir haben uns dafür mit der Unit 1 Lab 5: Sprite Following a Sprite beschäftigt (https://bjc.edc.org/bjc-r/cur/programming/1-introduction/5-follow-the-leader/2-sprite-interaction.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Es hat funktioniert!
 
-![image2][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20bewegung.png]
+![image2](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20bewegung.png)
 
 "Cow" soll sich so, wie "Monster" zufällig auf dem Bildschirm bewegen, da wir aber noch nicht wissen, wie wir die Geschwindigkeit konstant einstellen können, haben wir uns erst mit "Monster" und "Weapon" beschäftigt.
 
 ### <a name="8"></a>Donnerstag, 16.01.2020
 "Weapon" folgt zwar "Monster", aber die Motive flackern und die Bewegung läuft zu schnell. 
 
-![image3][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20%C3%BCber%20monster.png]
+![image3](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20%C3%BCber%20monster.png)
 
 Wir mussten zu der Erkenntnis kommen, dass unser Projekt nicht zielführend und nicht weiter ausbaufähig ist mit unseren Kenntnissen. 
 Wir haben uns dazu entschieden, das Projekt zu verwerfen. 
@@ -91,9 +91,9 @@ Wir haben uns dazu entschieden, das Projekt zu verwerfen.
 ### <a name="9"></a>Dienstag, 21.01.2020
 Auf Snap haben wir die Funktionen entdeckt, mit denen man über ein Sprite zeichnen und malen kann. Wir haben uns diese Stunde damit beschäftigt, die verschiedenen Befehle auszuprobieren und zu gucken, wie man etwas zeichnen kann.
 
-![image4][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/block%20viereck%20mal%204.png] ![image5][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/bild%20viereck%20mal%20vier.png]
+![image4](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/block%20viereck%20mal%204.png) ![image5](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/bild%20viereck%20mal%20vier.png)
 
-![image6][https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20%C3%BCber%20monster.png]
+![image6](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/Weapon%20%C3%BCber%20monster.png)
 
 ### <a name="10"></a>Mittwoch, 22.01.2020
 Diese Stunde sind wir durch Brainstorming und ein paar Vorschlägen von Herrn Buhl, auf die Idee gekommen, uns mit Rekursion und Fractals zu beschäftigen. Wir werden uns mit der Unit 7: Fractals and Recusion beschäftigen.
