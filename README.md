@@ -159,7 +159,9 @@ Diese Stunde kam Herr Buhl zu mir (Gesche, Hannah war krank) und hat mir gesagt,
 Heute habe ich (Gesche) Hannah meine Ergebnisse der letzten Stunden gezeigt und erklärt. 
 
 ### <a name="22"></a>Mittwoch, 11.03.2020
-Diese Stunde haben wir weiter versucht, die verschiedenen Codes zu verbinden und zu verkürzen, jedoch sind dabei immer Fehler entstanden, sodass die einzelnen Level nicht mehr funktionieren.
+Diese Stunde haben wir weiter versucht, die verschiedenen Codes zu verbinden und zu verkürzen. Beim Pentagon haben wir es geschafft. Dann haben wir es bei den Anderen versucht, jedoch sind dabei immer Fehler entstanden, sodass die einzelnen Level nicht mehr funktionieren.
+
+![image17](https://github.com/userhg/Stundenblag---2.-Projekt/blob/master/pentagon%20block%20verk%C3%BCrzt.png)
 
 ### <a name="23"></a>Freitag, 13.03.2020
 Ehrlich gesagt konnten wir uns in dieser Stunde nicht wirklich konzentieren, da wir gerade mitbekommen haben, dass wegen des Coronavirus die Schule ausfällt und unsere Abiturprüfung verschoben wird. Trotz allem haben wir uns organisiert, wie wir die Ausarbeitung des Projekt über die Ferien koordinieren. 
